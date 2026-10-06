@@ -1,5 +1,7 @@
 # Laptop Price Predictor 💻📊
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LahiruButhsara34/Laptop-Price-Predictor)
+
 Laptop Price Predictor is a Machine Learning based web application built on a Flask server. It predicts laptop market prices based on user-selected hardware specifications such as RAM, Weight, CPU, GPU, Operating System, and Display features.
 
 ---
@@ -22,7 +24,7 @@ When purchasing a laptop, prices vary significantly depending on dynamic hardwar
 
 ---
 
-## 🛠️️ Tech Stack & Libraries
+## 🛠 Tech Stack & Libraries
 
 * **Backend Server:** Flask (Python)
 * **Machine Learning:** Scikit-Learn (Linear Models, Trees, Ensembles, GridSearchCV)
@@ -32,7 +34,7 @@ When purchasing a laptop, prices vary significantly depending on dynamic hardwar
 
 ---
 
-## Requirements
+## 📋 Requirements
 - python-3.13.11
 - Dependencies: pip install -r requirements.txt
 
