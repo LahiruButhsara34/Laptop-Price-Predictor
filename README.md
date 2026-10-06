@@ -2,6 +2,8 @@
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LahiruButhsara34/Laptop-Price-Predictor)
 
+🔗 **Repository Link:** [https://github.com/LahiruButhsara34/Laptop-Price-Predictor](https://github.com/LahiruButhsara34/Laptop-Price-Predictor)
+
 Laptop Price Predictor is a Machine Learning based web application built on a Flask server. It predicts laptop market prices based on user-selected hardware specifications such as RAM, Weight, CPU, GPU, Operating System, and Display features.
 
 ---
