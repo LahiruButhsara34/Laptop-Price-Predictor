@@ -32,6 +32,12 @@ When purchasing a laptop, prices vary significantly depending on dynamic hardwar
 
 ---
 
+## Requirements
+- python-3.13.11
+- Dependencies: pip install -r requirements.txt
+
+---
+
 ## 📂 Repository Structure
 
 ```text
